@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/pre-dexed/debug/classes-e64bef17ad394bb483ea25c931e39642f1faf3f0.jar" />
+    </item>
+    <item
+        jar="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-21916651924ed5d5f8d156b3c7d12cfc515cbab7.jar" />
+    </item>
+    <item
+        jar="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/pre-dexed/debug/classes-4a07a7f4eaff53fd3251f20609a9296480cc843e.jar" />
+    </item>
+    <item
+        jar="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/pre-dexed/debug/classes-273e7924fdf85cb445eb29691847a9210063b7ab.jar" />
+    </item>
+    <item
+        jar="/Applications/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-824d6ed637d9ba577e046e4ae5917d53001f477a.jar" />
+    </item>
+    <item
+        jar="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/pre-dexed/debug/classes-6c08903855b8f707de4726505761962419f2b43d.jar" />
+    </item>
+    <item
+        jar="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/danielramirez/Dropbox/workspaceAndroid/WearableListviewExample/app/build/intermediates/pre-dexed/debug/classes-0420ebb73de2d8c5cb6ef9a37468f54713c65deb.jar" />
+    </item>
+
+</items>
